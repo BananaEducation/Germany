@@ -51,6 +51,8 @@ Die Veröffentlichung aller Inhalte und Materialien, die Sie uns zusenden, geschi
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/ ><img alt="Creative Commons Lizenzvertrag" style="border-width:0" src="https://github.com/BananaEducation/Germany/raw/master/CC_Licence.png" /></a><br /><br /><a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/" >Creative Commons Namensnennung - Nicht-kommerziell - Weitergabe unter gleichen Bedingungen 4.0 International Lizenz</a>
 
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons Lizenzvertrag" style="border-width:0" src="https://github.com/BananaEducation/Germany/raw/master/CC_Licence.png" /></a><br />Weitere Infos <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Namensnennung - Nicht-kommerziell - Weitergabe unter gleichen Bedingungen 4.0 International Lizenz</a>.
+
 Hinweis: Es bleibt Ihnen überlassen, ob und welcher Form Sie bein Einstellen von Beiträgen und Materialien als Urheber kenntlich gemacht werden wollen.
 
  
