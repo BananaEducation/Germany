@@ -1,4 +1,4 @@
-# Moderiertes Banana Forum für LehrerInnen für Buchhaltung, BWR und Wirtschaftslehre 
+# Moderiertes Forum für LehrerInnen für Buchhaltung, BWR und Wirtschaftslehre 
 
 ## Unterrichtsmaterialen für den Einsatz von Banana Buchhaltung im Buchhaltungsunterricht
 
