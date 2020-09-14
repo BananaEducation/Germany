@@ -3,11 +3,11 @@
 
 ## Handlungsorientierten für Buchhaltungs-, BWR- und BWL-Unterricht digital unterstützen
 
-**+ Realschulen
++ Realschulen
 Jahrgangsstufen 7-10
 + Gymansien
 Jahrgangsstufen 10-12/13, GK und LK
-+ Wirtschaftsschulen**
++ Wirtschaftsschulen
 
 ### Zielsetzung des Forums
 
@@ -19,19 +19,21 @@ Mit diesem aktiven Service wollen wir einen Beitrag dazu leisten,
 + Lernende praxisnah auf Ihr Berufsleben vorzubereiten
 
 
-### Ihre Beiträge zum Forum
-
-**Falls Sie zum Forum beitragen möchten, senden Sie Ihre Inhalte und Materialien an support@banana.ch.** Wir sichten diese dann und stellen sie online. Wenn wir Änderungen vorschlagen, werden wir Ihnen diese vorlegen und um Freigabe bitten.
+### Ihre Beiträge zum Forum sind willkommen
 
 Dieses Forum ist für Sie und die Communitiy der Lehrenden gedacht und funktioniert umso besser, je reger der Austausch und zahlreicher die Beiträge sind.
 
 Sie sind herzlich dazu eingeladen beizutragen, wenn Sie dieses Forum nutzen. Die Kolleginnen und Kollegen freuen sich über auch über Kleinigkeiten, die Sie zur Verfügung stellen ebenso wie über ausgearbeitete Unterrichtssequenzen mit Materialien. 
 
+#### Auch kleine Beiträge sind willkommen
+
 Wenn Sie die Beiträge Ihrer KollegInnen nutzen, so kann es z.B. für alle interessant sein, wenn Sie von Ihnen für einen spziellen Unterrichtskontext modifizierte Materialien aus dem Forum wieder zurückspielen. So profitieren alle von den Unterrichtsvarianten.
 
 **Alles, das Ihre SchülerInnen und KollegInnen weiterbringen könnte, um Buchhaltungssoftware im Unterricht zweckdienlich und sinnstiftend einzusetzen ist willkommen.**
 
-Beiträge können zum Beispiel sein:
+**Falls Sie zum Forum beitragen möchten, senden Sie Ihre Inhalte und Materialien an support@banana.ch.** Wir sichten diese dann und stellen sie online. Wenn wir Änderungen vorschlagen, werden wir Ihnen diese vorlegen und um Freigabe bitten.
+
+#### Beiträge können zum Beispiel sein:
 
 * Buchhaltungsvorlagen
 * Unterrichtskonzeptionen
@@ -48,9 +50,7 @@ Es geht uns aber auch um den Austausch zu
 
 Die Veröffentlichung aller Inhalte und Materialien, die Sie uns zusenden, geschieht unter Anwendung der Creative Common Lizenz. 
 
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/ target="_blank"><img alt="Creative Commons Lizenzvertrag" style="border-width:0" src="https://github.com/BananaEducation/Germany/raw/master/CC_Licence.png" /></a><br /><br /><a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank">Creative Commons Namensnennung - Nicht-kommerziell - Weitergabe unter gleichen Bedingungen 4.0 International Lizenz</a>.
-
-target="_blank"
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/ target="_blank"><img alt="Creative Commons Lizenzvertrag" style="border-width:0" src="https://github.com/BananaEducation/Germany/raw/master/CC_Licence.png" /></a><br /><br /><a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank">Creative Commons Namensnennung - Nicht-kommerziell - Weitergabe unter gleichen Bedingungen 4.0 International Lizenz</a> target="_blank"
 
 Hinweis: Es bleibt Ihnen überlassen, ob und welcher Form Sie bein Einstellen von Beiträgen und Materialien als Urheber kenntlich gemacht werden wollen.
 
