@@ -5,7 +5,7 @@
 
 + **Realschulen**
 Jahrgangsstufen 7-10
-+ **Gymansien**
++ **Gymnasien**
 Jahrgangsstufen 10-12/13, GK und LK
 + **Wirtschaftsschulen**
 
