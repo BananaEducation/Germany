@@ -1,5 +1,5 @@
-# Moderiertes Forum für LehrerInnen
 # Unterrichtsmaterialen für den Einsatz von Banana Buchhaltung im Buchhaltungsunterricht
+# Moderiertes Forum für LehrerInnen
 
 ### Handlungsorientierten Buchhaltungs-, BWR- und BWL-Unterricht digital unterstützen
 
@@ -14,7 +14,8 @@ Jahrgangsstufen 10-12/13, GK und LK
 Banana bietet dieses moderierte Forum kostenfrei für Schulen und Lehrende an.
 
 Mit diesem aktiven Service wollen wir einen Beitrag dazu leisten,
-+ die Barrieren für den produktiven Einsatz einer Software im Buchhaltungs-, BWR oder Wirtschaftsunterricht möglichst weit herabzusetzen. Lehrende sollen es möglichst leicht haben, Banana Buchhaltung im Unterricht einzuführen
++ es Lehrenden leicht zu machen, Banana Buchhaltung im Unterricht einzuführen
++ die Barrieren für den produktiven Einsatz einer Software im BWR Unterricht möglichst weit herabzusetzen
 + die Digitalisierung in der Ausbildung weiter voran zu treiben
 + Lernende praxisnah auf Ihr Berufsleben vorzubereiten
 
