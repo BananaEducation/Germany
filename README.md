@@ -1,6 +1,7 @@
-# Banana Forum für LehrerInnen für Buchhaltung, BWR und Wirtschaftslehre
+# Moderiertes Banana Forum
+# für Buchhaltung, BWR und Wirtschaftslehre LehrerInnen
 
-## Unterrichtsmaterialen für den Einsatz von Banana Buchhaltung im Buchhaltungsunterricht - Moderiertes Forum
+## Unterrichtsmaterialen für den Einsatz von Banana Buchhaltung im Buchhaltungsunterricht
 
 + Realschulen
 Jahrgangsstufen 7-10
