@@ -1,15 +1,13 @@
 # Moderiertes Forum für LehrerInnen
+# Unterrichtsmaterialen für den Einsatz von Banana Buchhaltung im Buchhaltungsunterricht
 
-### Handlungsorientierten für Buchhaltungs-, BWR- und BWL-Unterricht digital unterstützen
+## Handlungsorientierten für Buchhaltungs-, BWR- und BWL-Unterricht digital unterstützen
 
-
-## Inhalt: Unterrichtsmaterialen für den Einsatz von Banana Buchhaltung im Buchhaltungsunterricht
-
-+ Realschulen
+**+ Realschulen
 Jahrgangsstufen 7-10
 + Gymansien
 Jahrgangsstufen 10-12/13, GK und LK
-+ Wirtschaftsschulen
++ Wirtschaftsschulen**
 
 ### Zielsetzung des Forums
 
@@ -50,13 +48,11 @@ Es geht uns aber auch um den Austausch zu
 
 Die Veröffentlichung aller Inhalte und Materialien, die Sie uns zusenden, geschieht unter Anwendung der Creative Common Lizenz. 
 
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/" :target="_blank"><img alt="Creative Commons Lizenzvertrag" style="border-width:0" src="https://github.com/BananaEducation/Germany/raw/master/CC_Licence.png" /></a><br /><br /><a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/" :target="_blank">Creative Commons Namensnennung - Nicht-kommerziell - Weitergabe unter gleichen Bedingungen 4.0 International Lizenz</a>.
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/ target="_blank"><img alt="Creative Commons Lizenzvertrag" style="border-width:0" src="https://github.com/BananaEducation/Germany/raw/master/CC_Licence.png" /></a><br /><br /><a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank">Creative Commons Namensnennung - Nicht-kommerziell - Weitergabe unter gleichen Bedingungen 4.0 International Lizenz</a>.
+
+target="_blank"
 
 Hinweis: Es bleibt Ihnen überlassen, ob und welcher Form Sie bein Einstellen von Beiträgen und Materialien als Urheber kenntlich gemacht werden wollen.
-
-{:target="_blank"}
-
-
 
  
 
