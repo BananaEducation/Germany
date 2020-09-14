@@ -1,13 +1,13 @@
 # Moderiertes Forum für LehrerInnen
 # Unterrichtsmaterialen für den Einsatz von Banana Buchhaltung im Buchhaltungsunterricht
 
-## Handlungsorientierten für Buchhaltungs-, BWR- und BWL-Unterricht digital unterstützen
+### Handlungsorientierten Buchhaltungs-, BWR- und BWL-Unterricht digital unterstützen
 
-+ Realschulen
++ **Realschulen**
 Jahrgangsstufen 7-10
-+ Gymansien
++ **Gymansien**
 Jahrgangsstufen 10-12/13, GK und LK
-+ Wirtschaftsschulen
++ **Wirtschaftsschulen**
 
 ### Zielsetzung des Forums
 
