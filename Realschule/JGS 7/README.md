@@ -8,10 +8,11 @@ Dieses Forum freut sich über den Austausch von Unterrichtsideen und konkreten Ma
 
 Alle freuen sich über Beiträge in Form von:
 
-Buchhaltungsvorlagen
-Unterrichtskonzeptionen
-Konkrete Materialien wie Beispielfirmen, Belege, Geschäftsvorfälle, Übungen, Projekte für Buchhaltungs- oder Wirtschafts-AGs etc.
-Lehrideen, z.B. Aktiverungs-/Motivationssequenzen, Vorschläge für die Differenzierung von Übungen für unterschiedliche Leistungsnivaus etc.
+* Buchhaltungsvorlagen
+* Unterrichtskonzeptionen
+* Konkrete Materialien wie Beispielfirmen, Belege, * Geschäftsvorfälle, Übungen, Projekte für Buchhaltungs- oder Wirtschafts-AGs etc.
+* Lehrideen, z.B. Aktiverungs-/Motivationssequenzen, Vorschläge für die Differenzierung von Übungen für unterschiedliche Leistungsnivaus etc.
+* und was immer für die Kolleginnen und Kollegen ebenso von Nutzen sein kann wie für Sie selbst
 
 Falls Sie zum Forum beitragen möchten, senden Sie Ihre Inhalte und Materialien an support@banana.ch. Wir sichten diese dann und stellen sie online. Falls wir Änderungen vorschlagen, werden wir Ihnen diese vorlegen und um Freigabe bitten.
 
