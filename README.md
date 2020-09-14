@@ -1,6 +1,6 @@
-# Germany
+# Deutschland
 
-Unterrichtsmaterialen für den Einsatz von Banana Buchhaltung im Buchhaltungsunterricht
+## Unterrichtsmaterialen fÃ¼r den Einsatz von Banana Buchhaltung im Buchhaltungsunterricht
 
 
 Realschulen
