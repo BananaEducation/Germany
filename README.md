@@ -1,9 +1,9 @@
-# Moderiertes Forum fÃ¼r LehrerInnen
+# Moderiertes Forum für LehrerInnen
 
-### Handlungsorientierten fÃ¼r Buchhaltungs-, BWR- und BWL-Unterricht digital unterstÃ¼tzen
+### Handlungsorientierten für Buchhaltungs-, BWR- und BWL-Unterricht digital unterstützen
 
 
-## Inhalt: Unterrichtsmaterialen fÃ¼r den Einsatz von Banana Buchhaltung im Buchhaltungsunterricht
+## Unterrichtsmaterialen für den Einsatz von Banana Buchhaltung im Buchhaltungsunterricht
 
 + Realschulen
 Jahrgangsstufen 7-10
@@ -11,48 +11,49 @@ Jahrgangsstufen 7-10
 Jahrgangsstufen 10-12/13, GK und LK
 + Wirtschaftsschulen
 
-### Zielsetzung des Forums
+## Zielsetzung
 
-Banana bietet dieses moderierte Forum kostenfrei fÃ¼r Schulen und Lehrende an.
+Banana bietet dieses moderierte Forum kostenfrei für Schulen und Lehrende an.
 
 Mit diesem aktiven Service wollen wir einen Beitrag dazu leisten,
 + die Digitalisierung in der Ausbildung weiter voran zu treiben und
-+ die Barrieren fÃ¼r den produktiven Einsatz einer Software insbesondere Banana Buchhaltung im Buchhaltungs-, BWR oder Wirtschaftsunterricht mÃ¶glichst weit herabzusetzen. Lehrende sollen es mÃ¶glichst leicht haben, Banana Buchhaltung im Unterricht einzufÃ¼hren.
++ die Barrieren für den produktiven Einsatz einer Software insbesondere Banana Buchhaltung im Buchhaltungs-, BWR oder Wirtschaftsunterricht möglichst weit herabzusetzen. Lehrende sollen es möglichst leicht haben, Banana Buchhaltung im Unterricht einzuführen.
 
 Unser Ziel ist es
 + Lernende praxisnah auf Ihr Berufsleben vorzubereiten
 
 
-### Ihre BeitrÃ¤ge zum Forum
+## Nutzung des Forums, Beiträge, Regeln
 
-Dieses Forum ist fÃ¼r Sie und die Communitiy der Lehrenden gedacht und funktioniert umso besser, je reger der Austausch und zahlreicher die BeitrÃ¤ge sind.
+Dieses Forum ist für Sie und die Communitiy der Lehrenden gedacht und funktioniert umso besser, je reger der Austausch und zahlreicher die Beiträge sind.
 
-Sie sind herzlich dazu eingeladen beizutragen, wenn Sie dieses Forum nutzen. Die Kolleginnen und Kollegen freuen sich Ã¼ber auch Ã¼ber Kleinigkeiten, die Sie zur VerfÃ¼gung stellen ebenso wie Ã¼ber ausgearbeitete Unterrichtssequenzen mit Materialien. Wenn Sie die BeitrÃ¤ge Ihrer KollegInnen nutzen, so kann es z.B. fÃ¼r alle wiederum interessant sein, wenn Sie von Ihnen fÃ¼r einen spziellen Unterrichtskontext modifizierte Materialien wieder zurÃ¼ckspielen. So profitieren alle von den Unterrichtsvarianten.
+Also, tragen Sie dazu bei, wenn Sie dieses Forum nutzen. Die Kolleginnen und Kollegen freuen sich über auch über Kleinigkeiten, die Sie beitragen, wie z.B. von ihnen für einen spziellen Unterrichtskontext modifizierte Materialien aus diesem Forum.
 
-##### Alles, das Ihre SchÃ¼lerInnen und KollegInnen weiterbringen kÃ¶nnte, um Buchhaltungssoftware im Unterricht zweckdienlich und sinnstiftend einzusetzen ist willkommen. 
+Alles, das Ihre SchülerInnen und KollegInnen weiterbringen könnte, um Buchhaltungssoftware im Unterricht zweckdienlich und sinnstiftend einzusetzen ist willkommen. 
 
-BeitrÃ¤ge kÃ¶nnen sein:
+Beiträge können sein:
 
 * Buchhaltungsvorlagen
 * Unterrichtskonzeptionen
-* Konkrete Materialien wie Beispielfirmen, Belege, GeschÃ¤ftsvorfÃ¤lle, Ãœbungen etc.
-+ Lehrideen, z.B. Aktiverungs-/Motivationssequenzen, VorschlÃ¤ge fÃ¼r die Differenzierung von Ãœbungen fÃ¼r unterschiedliche Leistungsnivaus etc.
+* Konkrete Materialien wie Beispielfirmen, Belege, Geschäftsvorfälle, Übungen etc.
+* Lehrideen, z.B. Aktiverungs-/Motivationssequenzen, Vorschläge für die Differenzierung von Übungen für unterschiedliche Leistungsnivaus etc.
+
 
 Es geht uns aber auch um den Austausch zu
 
-* Projektideen fÃ¼r Buchhaltungs- oder Wirtschafts-AGs
-* Unternehmensplanspiele, Business-Modelling, Start-up Szenarien fÃ¼r den Wirtschaftsunterricht
-* was immer fÃ¼r die Kolleginnen und Kollegen von Nutzen sein kann, um den Buchhaltungsunterricht digital zu unterstÃ¼tzen
+* Projektideen für Buchhaltungs- oder Wirtschafts-AGs
+* Unternehmensplanspiele, Business-Modelling, Start-up Szenarien für den Wirtschaftsunterricht
+* was immer für die Kolleginnen und Kollegen von Nutzen sein kann, um den Buchhaltungsunterricht digital zu unterstützen
 
-Falls Sie zum Forum beitragen mÃ¶chten, senden Sie Ihre Inhalte und Materialien an support@banana.ch. Wir sichten diese dann und stellen sie online. Wenn wir Ã„nderungen vorschlagen, werden wir Ihnen diese vorlegen und um Freigabe bitten.
+Falls Sie zum Forum beitragen möchten, senden Sie Ihre Inhalte und Materialien an support@banana.ch. Wir sichten diese dann und stellen sie online. Wenn wir Änderungen vorschlagen, werden wir Ihnen diese vorlegen und um Freigabe bitten.
 
-### Creative Commons
+## Creative Commons
 
-Die VerÃ¶ffentlichung aller Inhalte und Materialien, die Sie uns zusenden, geschieht unter Anwendung der Creative Common Lizenz. 
+Die Veröffentlichung aller Inhalte und Materialien, die Sie uns zusenden, geschieht unter Anwendung der Creative Common Lizenz. 
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons Lizenzvertrag" style="border-width:0" src="https://github.com/BananaEducation/Germany/raw/master/CC_Licence.png" target="_blank"/></a><br /><br />Dieses Werk ist lizenziert unter einer <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank">Creative Commons Namensnennung - Nicht-kommerziell - Weitergabe unter gleichen Bedingungen 4.0 International Lizenz</a>.
 
-Hinweis: Es bleibt Ihnen Ã¼berlassen, ob und welcher Form Sie bein Einstellen von BeitrÃ¤gen und Materialien als Urheber kenntlich gemacht werden wollen.
+Hinweis: Es bleibt Ihnen überlassen, ob und welcher Form Sie bein Einstellen von Beiträgen und Materialien als Urheber kenntlich gemacht werden wollen.
 
 
 
