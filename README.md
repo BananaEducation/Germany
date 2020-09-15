@@ -1,5 +1,5 @@
 # Unterrichtsmaterialen für den Einsatz von Banana Buchhaltung im Buchhaltungsunterricht
-## Handlungsorientierten Buchhaltungs-, BWR- und BWL-Unterricht digital unterstützen
+## Handlungsorientierten Buchhaltungs-, BWR- und BWL-Unterricht digital unterstützen mit Banana Buchhaltung
 # Moderiertes Forum für LehrerInnen
 
 + **Realschulen**
