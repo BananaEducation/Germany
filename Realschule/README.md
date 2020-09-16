@@ -1,27 +1,18 @@
 # Unterrichtsmaterialen für den Einsatz von Banana Buchhaltung im Buchhaltungsunterricht
 ## Handlungsorientierten Buchhaltungs-, BWR- und BWL-Unterricht digital unterstützen mit Banana Buchhaltung
-# Moderiertes Forum für LehrerInnen
+# Realschulen
 
-+ **Realschulen**
 Jahrgangsstufen 7-10
-+ **Gymnasien**
-Jahrgangsstufen 10-12/13, GK und LK
-+ **Wirtschaftsschulen**
+
+
+### Inhalt:
+
+* Geschäftsgang 1 Jahr: Komplette Unterrichtssequenz für 4-6 Unterrichtsstunden mit detaillierten Ablaufplänen, Beschreibungen und Unterrichtsmaterialien
 
 
 
-### Zielsetzung des Forums
 
-Banana bietet dieses moderierte Forum kostenfrei für Schulen und Lehrende an.
-
-Mit diesem aktiven Service wollen wir einen Beitrag dazu leisten,
-+ es Lehrenden leicht zu machen, Banana Buchhaltung im Unterricht einzuführen
-+ die Barrieren für den produktiven Einsatz einer Software im BWR Unterricht möglichst weit herabzusetzen
-+ die Digitalisierung in der Ausbildung weiter voran zu treiben
-+ Lernende praxisnah auf Ihr Berufsleben vorzubereiten
-
-
-### Ihre Beiträge zum Forum sind willkommen
+### Nicht genug Inhalt? Ihre Beiträge zum Forum sind willkommen
 
 Dieses Forum ist für Sie und die Communitiy der Lehrenden gedacht und funktioniert umso besser, je reger der Austausch und zahlreicher die Beiträge sind.
 
