@@ -19,27 +19,27 @@ Unterlage 5f: Spiel
 Unterlage 6: **Tabellarischer Unterrichtsleitfaden 2. Stunde**
 Unterlage 6a: Einstieg Tafelanschrieb
 Unterlage 6b: Belege erstes Halbjahr (für Schüler DIN A 5 oder kleiner ausgeteilt), buchhaltungsrelevante und nicht-buchhaltungsrelevante Belege
-  * Bambushandel Netter
-  * Kontoauszug 1 Kammelbank
-  * Outdoor Sports Schäffler
-  * Kontoauszug 2 Kammelbank
-  * Gehaltsliste Mai 2012
-  * Zeitungsartikel Insolvenz Sport Weber
-  * Angebot True Grit
-  * Rabattinformation Bambushandel Netter
-  * BelegeInformation Werbung World Cup
-  * Aldi informiert, Prospekt Aldi Süd, 01.07.2013
+  Bambushandel Netter
+  Kontoauszug 1 Kammelbank
+  Outdoor Sports Schäffler
+  Kontoauszug 2 Kammelbank
+  Gehaltsliste Mai 2012
+  Zeitungsartikel Insolvenz Sport Weber
+  Angebot True Grit
+  Rabattinformation Bambushandel Netter
+  BelegeInformation Werbung World Cup
+  Aldi informiert, Prospekt Aldi Süd, 01.07.2013
 Unterlage 6c: Begriffskarten Gesamtzusammenfassung
 Unterlage 6d: Hausaufgabe mit Lösung
 
 Unterlage 7: **Tabellarischer Unterrichtsleitfaden 3. Stunde**
 Unterlage 7a: Belege zweites Halbjahr (für Schüler in DIN A 5 oder kleiner ausgeteilt)
-  * Inovation Tools
-  * Longboard-Gschäft Peschek
-  * Kontoauszug 3 Kammelbank
-  * Erich Schenk
-  * Safe Rides, Rechnung
-  * Safe Rides, Gutschrift
+  Inovation Tools
+  Longboard-Gschäft Peschek
+  Kontoauszug 3 Kammelbank
+  Erich Schenk
+  Safe Rides, Rechnung
+  Safe Rides, Gutschrift
 Unterlage 7b: Lösung Buchungssätze in Buchhaltungsprogramm
 
 Unterlage 8: **Tabellarischer Unterrichtsleitfaden 4. Stunde**
