@@ -1,7 +1,7 @@
-Von Carola Sedlmeier
+Von Carola Sedlmeier, Fachleiterin BWR Staatliche Realschule Mainburg
 
 # 4-6 stündige Unterrichtssequenz zur Simulation des Geschäftsgangs eines Jahres anhand einer Modellfirma
-Der Geschäftsgang in der 9. Jahrgangsstufe wird mithilfe der Software erstellt und im Ablauf simuliert. Als Geschäftsgang wird in den Schulbüchern generell der Buchungskreislauf eines Geschäftsjahres bezeichnet, von den Eröffnungsbuchungen über die laufenden Buchungen während des Jahres bis zu den Abschlussbuchungen. Sie finden hier die vollständige Beschreibung der Unterrichtssequenz, samt aller Unterrichtsmaterialen. Die Beschreibung gliedert die Sequenz in 4 Unterrichtstunden, das Material taugt je nach Lerngruppe auch für 6 US.
+Der Geschäftsgang in der 9. Jahrgangsstufe wird mithilfe der Software erstellt und im Ablauf simuliert. Als Geschäftsgang wird in den Schulbüchern generell der Buchungskreislauf eines Geschäftsjahres bezeichnet, von den Eröffnungsbuchungen über die laufenden Buchungen während des Jahres bis zu den Abschlussbuchungen. Sie finden hier die vollständige Beschreibung der Unterrichtssequenz, samt aller Unterrichtsmaterialen. Die Beschreibung gliedert die Sequenz in 4 Unterrichtstunden, ist aber auch für 5 oder 6 Unterrichtsstunden geeignet.
 
 ## Inhaltsverzeichnis der Materialien
 
@@ -76,21 +76,17 @@ Beispielsweise wurde in der vorliegenden Unterrichtsequenz für die JGS 9 In der
 * Außerdem könnten verschiedene Hilfsangebote wie die Kontrollkärtchen den Schülern Möglichkeiten bieten, ihr Lernen eigenverantwortlicher, individueller und selbstbestimmter zu gestalten
 
 ## Pädagogische Vorerwägungen zum Raum
-
 Als Raum für die Unterrichtssequenz wurde ein separater IT-Raum gewählt. In diesem Raum befindet sich für jeden Schüler ein PC sowie Arbeitsplätze, an denen schriftliche Arbeiten erledigt werden können oder die Partner- bzw. Gruppenarbeiten stattfinden. Des Weiteren ist der IT-Raum mit einer Dokumentenkamera, einem Beamer und einer Tafel ausgestattet.
 
 ## Lernziele der Unterrichtssequenz
-
 Übergeordnetes Lernziel: Die Schüler können anhand eines Buchhaltungsprogramms (hier: Banana Buchhaltung) einen Geschäftsgang am Beispielunternehmen longdong boards buchen.
 
 ### Zur Eröffnung des Geschäftsgangs
-
 * Die Schüler formulieren anhand eines Vorkontierungsblatts die Geschäftsfälle der Eröffnungsbuchungen für die Bestandskonten und eröffnen den Geschäftsgang durch die Eintragung der Anfangsbestände der Bestandskonten in das Buchhaltungsprogramm
 * Die Schüler tragen bei ausgewählten Bestandskonten die Anfangsbestände in die T-Konten ein.
 * Die Schüler bilden bei ausgewählten Bestandskonten anhand der T-Konten die Buchungssätze für die Eröffnungsbuchungen.
 
 ### Bei der Buchung laufender Geschäftsvorfälle
-
 * Die Schüler entscheiden, welche Belege für buchhalterische Vorgänge im Fertigungsunternehmen relevant sind und ordnen diese Belege chronologisch
 * Die Schüler buchen in Banana Buchhaltung die laufenden Buchungen des ersten Halbjahres anhand der vorsortierten Belege
 * Die Schüler entscheiden, bei welchen Belegen es sich um Eigenbelege und bei welchen es sich um Fremdbelege handelt und ordnen diese in der Buchhaltungsmappe ab
@@ -99,7 +95,6 @@ Als Raum für die Unterrichtssequenz wurde ein separater IT-Raum gewählt. In di
 * Die Schüler entscheiden, bei welchen Belegen es sich um Eigenbelege und bei welchen es sich um Fremdbelege handelt und ordnen diesen in der Buchhaltungsmappe ab
 
 ### Zum Abschluss des Geschäftsgangs
-
 * Die Schüler erinnern sich, welche Arbeiten am Jahresende in einem Unternehmen anfallen und nennen beispielsweise vorbereitende Abschlussbuchungen.
 * Die Schüler buchen schriftlich verschiedene Aufgaben zu Abschlussbuchungen.
 * Die Schüler analysieren die Gewinn- und Verlustrechnung und die Schlussbilanz und vergleichen die Anfangsbilanz mit der Schlussbilanz
