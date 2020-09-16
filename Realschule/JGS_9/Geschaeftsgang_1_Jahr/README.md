@@ -1,7 +1,7 @@
 Von Carola Sedlmeier
 
 # Simulation des abschließenden Geschäftsgangs anhand einer Modellfirma
-Unter Einsatz von Banana Buchhaltung wird der abschließende Geschäftsgang in der 9. Jahrgangsstufe erstellt und im Ablauf simuliert. Als Geschäftsgang wird in den Schulbüchern generell der Buchungskreislauf eines Geschäftsjahres bezeichnet, von den Eröffnungsbuchungen über die laufenden Buchungen während des Jahres bis zu den Abschlussbuchungen. Sie finden hier die vollständige Beschreibung der Unterrichtssequenz, die auf 4 bis 6 Unterrichtsstunden angelegt ist, samt aller Unterrichtsmaterialen.
+Der abschließende Geschäftsgang in der 9. Jahrgangsstufe wird mithilfe der Software erstellt und im Ablauf simuliert. Als Geschäftsgang wird in den Schulbüchern generell der Buchungskreislauf eines Geschäftsjahres bezeichnet, von den Eröffnungsbuchungen über die laufenden Buchungen während des Jahres bis zu den Abschlussbuchungen. Sie finden hier die vollständige Beschreibung der Unterrichtssequenz, die auf 4 bis 6 Unterrichtsstunden angelegt ist, samt aller Unterrichtsmaterialen.
 
 
 ### Inhaltsverzeichnis:
