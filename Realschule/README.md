@@ -8,7 +8,7 @@ Jahrgangsstufen 7-10
 
 * Geschäftsgang 1 Jahr: Komplette Unterrichtssequenz für 4-6 Unterrichtsstunden mit detaillierten Ablaufplänen, Beschreibungen und Unterrichtsmaterialien
 
-##### Nicht genug Inhalt? Ihre Beiträge zum Forum sind willkommen
+#### Nicht genug Inhalt? Ihre Beiträge zum Forum sind willkommen
 
 Dieses Forum ist für Sie und die Communitiy der Lehrenden gedacht und funktioniert umso besser, je reger der Austausch und zahlreicher die Beiträge sind.
 
@@ -33,7 +33,7 @@ Es geht uns aber auch um den Austausch zu
 
 **Falls Sie zum Forum beitragen möchten, senden Sie Ihre Inhalte und Materialien an support@banana.ch.** Wir sichten diese dann und stellen sie online. Wenn wir Änderungen vorschlagen, werden wir Ihnen diese vorlegen und um Freigabe bitten.
 
-##### Creative Commons
+#### Creative Commons
 
 Die Veröffentlichung aller Inhalte und Materialien, die Sie uns zusenden, geschieht unter Anwendung der Creative Common Lizenz.
 
