@@ -7,6 +7,7 @@ Jahrgangsstufen 7-10
 ### Inhaltsverzeichnis
 
 * Geschäftsgang 1 Jahr: Komplette Unterrichtssequenz für 4-6 Unterrichtsstunden mit detaillierten Ablaufplänen, Beschreibungen und Unterrichtsmaterialien. Geeignet für die JGS 8 und 9
+* 
 
 #### Nicht genug Inhalt? Ihre Beiträge zum Forum sind willkommen
 
