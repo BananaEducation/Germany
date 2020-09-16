@@ -19,8 +19,8 @@ Unterlage 5f: Spiel
 Unterlage 6: **Tabellarischer Unterrichtsleitfaden 2. Stunde**
 Unterlage 6a: Einstieg Tafelanschrieb
 Unterlage 6b: Belege erstes Halbjahr (für Schüler DIN A 5 oder kleiner ausgeteilt), buchhaltungsrelevante und nicht-buchhaltungsrelevante Belege
-  Bambushandel Netter
-  Kontoauszug 1 Kammelbank
+Bambushandel Netter
+Kontoauszug 1 Kammelbank
   Outdoor Sports Schäffler
   Kontoauszug 2 Kammelbank
   Gehaltsliste Mai 2012
