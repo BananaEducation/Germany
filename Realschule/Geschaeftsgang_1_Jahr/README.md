@@ -8,7 +8,7 @@ Der Geschäftsgang in der 9. Jahrgangsstufe wird mithilfe der Software erstellt 
 * Unterlage 3: Unternehmen longdong boards
 * Unterlage 4: Kurzanleitung Banana Buchhaltung
 
-* Unterlage 5: **Tabellarischer Unterrichtsleitfaden 1. Stunde
+* Unterlage 5: **Tabellarischer Unterrichtsleitfaden 1. Stunde**
 * Unterlage 5a: Button
 * Unterlage 5b: Einstieg Vorkontierungsblatt und Tafelnotiz
 * Unterlage 5c: Eröffnungsbilanz und Lösung Eröffnungsbilanz (Vorderseite AB)
@@ -16,7 +16,7 @@ Der Geschäftsgang in der 9. Jahrgangsstufe wird mithilfe der Software erstellt 
 * Unterlage 5e: Buchungshilfe
 * Unterlage 5f: Spiel
 
-* Unterlage 6: **Tabellarischer Unterrichtsleitfaden 2. Stunde
+* Unterlage 6: **Tabellarischer Unterrichtsleitfaden 2. Stunde**
 * Unterlage 6a: Einstieg Tafelanschrieb
 * Unterlage 6b: Belege erstes Halbjahr (für Schüler DIN A 5 oder kleiner ausgeteilt), buchhaltungsrelevante und nicht-buchhaltungsrelevante Belege
   * Bambushandel Netter
@@ -32,7 +32,7 @@ Der Geschäftsgang in der 9. Jahrgangsstufe wird mithilfe der Software erstellt 
 * Unterlage 6c: Begriffskarten Gesamtzusammenfassung
 * Unterlage 6d: Hausaufgabe mit Lösung
 
-* Unterlage 7: **Tabellarischer Unterrichtsleitfaden 3. Stunde
+* Unterlage 7: **Tabellarischer Unterrichtsleitfaden 3. Stunde**
 * Unterlage 7a: Belege zweites Halbjahr (für Schüler in DIN A 5 oder kleiner ausgeteilt)
   * Inovation Tools
   * Longboard-Gschäft Peschek
@@ -42,7 +42,7 @@ Der Geschäftsgang in der 9. Jahrgangsstufe wird mithilfe der Software erstellt 
   * Safe Rides, Gutschrift
 * Unterlage 7b: Lösung Buchungssätze in Buchhaltungsprogramm
 
-* Unterlage 8: **Tabellarischer Unterrichtsleitfaden 4. Stunde
+* Unterlage 8: **Tabellarischer Unterrichtsleitfaden 4. Stunde**
 * Unterlage 8a: Einstiegsfolie
 * Unterlage 8b: Schlussbilanz (Vorderseite AB)
 * Unterlage 8c: Gewinn- und Verlustrechnung (Rückseite AB)
