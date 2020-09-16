@@ -101,6 +101,22 @@ Zum Abschluss des Geschäftsgangs
 * Die Schüler buchen schriftlich verschiedene Aufgaben zu Abschlussbuchungen.
 * Die Schüler analysieren die Gewinn- und Verlustrechnung und die Schlussbilanz und vergleichen die Anfangsbilanz mit der Schlussbilanz
 
+### Ausführliche Ablaufbeschreibung der Unterrichtssequenz (Tabellarischer Leifaden, siehe Dokumente: Unterrichtsverlauf
+
+#### Hinführung zum abschließenden Geschäftsgang durch das Fertigungsunternehmen
+Bereits Mitte Mai, mit dem Themenbereich „Bestandsveränderungen bei Werkstoffen und Handelswaren“94, wird das Fertigungsunternehmen longdong boards95 eingeführt, damit die Schüler vertraut mit dem Unternehmen werden. Die Vorgabe der Lehrkraft liegt lediglich bei der Produktion von Longboards. Der Name des Unternehmens wird im Klassenverband erarbeitet. Das Logo der Firma96 wird von einer Schülerin der Klasse entworfen. Anhand eines von der Lehrkraft mitgebrachten Longboards werden die Werkstoffe und Handelswaren gemeinschaftlich bestimmt. In der Vorstunde zur Hausarbeitssequenz wird die 3. Schulaufgabe geschrieben.
+
+#### Die Eröffnung des Geschäftsgangs
+
+* Bevor die Stunde mit dem Einstieg beginnen kann, muss jeder Schüler auf seinem PC den von pagatorix99 bereitgestellten Kontenplan importieren und abspeichern.
+* Emotional und symbolisch werden die Schüler durch einen Button auf ihre Rolle als Mitarbeiter in der Buchhaltungsabteilung der Firma longdong boards vorbereitet.
+* Als Einstieg wird über die Dokumentenkamera ein Auszug aus einem lückenhaften Vorkontierungsblatt gezeigt. Die Schüler erkennen, dass es sich um Eröffnungsbuchungen handelt und formulieren mündlich die Geschäftsfälle dazu.Im Klassenverband werden die Buchungssätze zu den im Vorkontierungsblatt dargestellten Geschäftsvorgängen gebildet und an die Tafel geschrieben. 
+* Anschließend erhält jeder Schüler eine Buchhaltungsmappe mit seinem Namen, die er über die ganze Unterrichtssequenz mit sich führt.102 In der Mappe befindet sich unter dem Register „Eröffnung“ eine unvollständige Eröffnungsbilanz. In Einzelarbeit berechnen die Schüler die fehlende Bilanzsumme sowie das Eigenkapital und ergänzen die Beschriftung der Bilanz. Mit dem Banknachbarn bzw. durch die Lehrkraft werden die Ergebnisse kontrolliert.
+* Als Ersatz für die Eröffnungsbuchungen geben die Schüler in Einzelarbeit die Anfangsbestände der aktiven und passiven Bestandskonten in das Buchhaltungsprogramm ein. Als Hilfestellung für die Eingabe am PC erhält jeder Schüler eine Buchungshilfe.
+* Zusammenfassend werden nochmals die Bilanzsumme und das Eigenkapital kontrolliert und die Begriffe Mittelherkunft und Mittelverwendung den Bilanzseiten zugeordnet und auf dem Arbeitsblatt vermerkt. Die Lehrkraft weist darauf hin, dass in der Bilanz nicht gebucht werden darf und es deshalb das Eröffnungsbilanzkonto gibt, das ein Spiegelbild der Eröffnungsbilanz ist.
+* In Banana Buchhaltungen können Eröffnungsbuchungen getätigt werden. Um den Geschäftsgang vollständig darzustellen, werden die Schüler darauf hingewiesen, dass die Eröffnungsbuchungen anhand von einzelnen Beispielen schriftlich erfolgen. Die Schüler entnehmen bei der Erarbeitung des zweiten Teillernziels die Anfangsbestände aus der Eröffnungsbilanz und tragen diese auf dem Arbeitsblatt in die T-Konten ein. In Partnerarbeit werden die Eintragungen verglichen und anschließend über die Dokumentenkamera im Klassenverband verbessert. Zusammenfassend wird wiederholt, bei welchen Bestandskonten der Anfangsbestand auf welcher Seite im T-Konto steht und wie ein Eröffnungsbilanzkonto im Vergleich zur Eröffnungsbilanz aufgebaut ist. Im dritten Teillernziel fordert die Lehrkraft die Schüler zur Vertiefung des Sachverhaltes dazu auf, in Einzelarbeit die Buchungssätze auf dem Arbeitsblatt zu bilden und diese anschließend mit dem Banknachbarn zu besprechen und gegebenenfalls zu verbessern.
+* Abschließend werden vier Gruppen mit jeweils vier Mitgliedern gebildet. Jede Gruppe erhält ein Spielset mit zusammenfassenden Fragen zu dem Themenbereich „Eröffnungsbuchungen“ (blaue Kärtchen). Ziel des Spieles ist es, Kenntnisse der Schüler über die Themenbereiche „Bilanz“ und „Eröffnungen von Bestandskonten“ aus den vorherigen Jahrgangsstufen zu wiederholen und zu festigen. In der Hausaufgabe haben die Schüler die Möglichkeit, durch verschiedene Aufgabenstellungen Eröffnungsbuchungen zu üben.
+
 
 
 
