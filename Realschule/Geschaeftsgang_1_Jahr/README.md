@@ -5,20 +5,22 @@ Der Geschäftsgang in der 9. Jahrgangsstufe wird mithilfe der Software erstellt 
 
 ## Inhaltsverzeichnis der Materialien
 
-Unterlage 3: Unternehmen longdong boards
-Unterlage 4: Kurzanleitung Banana Buchhaltung
+(3) Unternehmen longdong boards
+(4) Kurzanleitung Banana Buchhaltung
 
-Unterlage 5: **Tabellarischer Unterrichtsleitfaden 1. Stunde**
-Unterlage 5a: Button
-Unterlage 5b: Einstieg Vorkontierungsblatt und Tafelnotiz
-Unterlage 5c: Eröffnungsbilanz und Lösung Eröffnungsbilanz (Vorderseite AB)
-Unterlage 5d: Arbeitsblatt Eröffnung und Lösung (Rückseite AB)
-Unterlage 5e: Buchungshilfe
-Unterlage 5f: Spiel
+(5)**Tabellarischer Unterrichtsleitfaden 1. Stunde**
+(5a) Button
+(5b) Einstieg Vorkontierungsblatt und Tafelnotiz
+(5c) Eröffnungsbilanz und Lösung Eröffnungsbilanz (Vorderseite AB)
+(5d) Arbeitsblatt Eröffnung und Lösung (Rückseite AB)
+(5e) Buchungshilfe
+(5f) Spiel
 
 Unterlage 6: **Tabellarischer Unterrichtsleitfaden 2. Stunde**
 Unterlage 6a: Einstieg Tafelanschrieb
 Unterlage 6b: Belege erstes Halbjahr (für Schüler DIN A 5 oder kleiner ausgeteilt), buchhaltungsrelevante und nicht-buchhaltungsrelevante Belege
+
+
 Bambushandel Netter
 Kontoauszug 1 Kammelbank
   Outdoor Sports Schäffler
