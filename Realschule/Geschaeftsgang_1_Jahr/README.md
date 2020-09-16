@@ -29,29 +29,29 @@ Unterlage 6b: Belege erstes Halbjahr (für Schüler DIN A 5 oder kleiner ausgete
   * Rabattinformation Bambushandel Netter
   * BelegeInformation Werbung World Cup
   * Aldi informiert, Prospekt Aldi Süd, 01.07.2013
-* Unterlage 6c: Begriffskarten Gesamtzusammenfassung
-* Unterlage 6d: Hausaufgabe mit Lösung
+Unterlage 6c: Begriffskarten Gesamtzusammenfassung
+Unterlage 6d: Hausaufgabe mit Lösung
 
-* Unterlage 7: **Tabellarischer Unterrichtsleitfaden 3. Stunde**
-* Unterlage 7a: Belege zweites Halbjahr (für Schüler in DIN A 5 oder kleiner ausgeteilt)
+Unterlage 7: **Tabellarischer Unterrichtsleitfaden 3. Stunde**
+Unterlage 7a: Belege zweites Halbjahr (für Schüler in DIN A 5 oder kleiner ausgeteilt)
   * Inovation Tools
   * Longboard-Gschäft Peschek
   * Kontoauszug 3 Kammelbank
   * Erich Schenk
   * Safe Rides, Rechnung
   * Safe Rides, Gutschrift
-* Unterlage 7b: Lösung Buchungssätze in Buchhaltungsprogramm
+Unterlage 7b: Lösung Buchungssätze in Buchhaltungsprogramm
 
-* Unterlage 8: **Tabellarischer Unterrichtsleitfaden 4. Stunde**
-* Unterlage 8a: Einstiegsfolie
-* Unterlage 8b: Schlussbilanz (Vorderseite AB)
-* Unterlage 8c: Gewinn- und Verlustrechnung (Rückseite AB)
-* Unterlage 8d: Arbeitsblatt Jahresabschluss und Lösung
-* Unterlage 8e: Matrjoschka
+Unterlage 8: **Tabellarischer Unterrichtsleitfaden 4. Stunde**
+Unterlage 8a: Einstiegsfolie
+Unterlage 8b: Schlussbilanz (Vorderseite AB)
+Unterlage 8c: Gewinn- und Verlustrechnung (Rückseite AB)
+Unterlage 8d: Arbeitsblatt Jahresabschluss und Lösung
+Unterlage 8e: Matrjoschka
 
-* Unterlage 10: Kontrollkärtchen
-* Unterlage 11: Tafelskizze T-Konten bei Abschluss
-* Unterlage 12: Spielfeld mit Anleitung
+Unterlage 10: Kontrollkärtchen
+Unterlage 11: Tafelskizze T-Konten bei Abschluss
+Unterlage 12: Spielfeld mit Anleitung
 
 ## Auswahl thematischer Schwerpunkte, didaktische Reduktion
 In der Unterrichtssequenz wurden im Sinne des exemplarischen Lernens die Lerninhalte für die Schüler in der Anzahl und in der Komplexität verringert sowie die Lernvoraussetzungen der Schüler berücksichtigt.
