@@ -1,23 +1,23 @@
-# Jahrgangsstufe 7
+# Jahrgangsstufe 11
 
 
 
 Moderiertes Forum
 
-Dieses Forum freut sich über den Austausch von Unterrichtsideen und konkreten Materialien, mit denen Kollegen und Kolleginnen arbeiten können. Von dem Austausch können alle am Besten profitieren, wenn jeder etwas beiträgt. Alle, was Ihre Schüler'innen und Kolleg'innen weiterbringt und hilft, Buchhaltungssoftware im Unterricht nutzenstiftend und sinnbringend einzusetzen ist willkommen.
+Dieses Forum freut sich Ã¼ber den Austausch von Unterrichtsideen und konkreten Materialien, mit denen Kollegen und Kolleginnen arbeiten kÃ¶nnen. Von dem Austausch kÃ¶nnen alle am Besten profitieren, wenn jeder etwas beitrÃ¤gt. Alle, was Ihre SchÃ¼ler'innen und Kolleg'innen weiterbringt und hilft, Buchhaltungssoftware im Unterricht nutzenstiftend und sinnbringend einzusetzen ist willkommen.
 
-Alle freuen sich über Beiträge in Form von:
+Alle freuen sich Ã¼ber BeitrÃ¤ge in Form von:
 
 Buchhaltungsvorlagen
 Unterrichtskonzeptionen
-Konkrete Materialien wie Beispielfirmen, Belege, Geschäftsvorfälle, Übungen, Projekte für Buchhaltungs- oder Wirtschafts-AGs etc.
-Lehrideen, z.B. Aktiverungs-/Motivationssequenzen, Vorschläge für die Differenzierung von Übungen für unterschiedliche Leistungsnivaus etc.
+Konkrete Materialien wie Beispielfirmen, Belege, GeschÃ¤ftsvorfÃ¤lle, Ãœbungen, Projekte fÃ¼r Buchhaltungs- oder Wirtschafts-AGs etc.
+Lehrideen, z.B. Aktiverungs-/Motivationssequenzen, VorschlÃ¤ge fÃ¼r die Differenzierung von Ãœbungen fÃ¼r unterschiedliche Leistungsnivaus etc.
 
-Falls Sie zum Forum beitragen möchten, senden Sie Ihre Inhalte und Materialien an support@banana.ch. Wir sichten diese dann und stellen sie online. Falls wir Änderungen vorschlagen, werden wir Ihnen diese vorlegen und um Freigabe bitten.
+Falls Sie zum Forum beitragen mÃ¶chten, senden Sie Ihre Inhalte und Materialien an support@banana.ch. Wir sichten diese dann und stellen sie online. Falls wir Ã„nderungen vorschlagen, werden wir Ihnen diese vorlegen und um Freigabe bitten.
 
 Creative Commons
 
-Die Veröffentlichung aller Inhalte und Materialien, die Sie uns zusenden, geschieht unter Anwendung der Creative Common Lizenz. <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons Lizenzvertrag" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />Dieses Werk ist lizenziert unter einer <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Namensnennung - Nicht-kommerziell - Weitergabe unter gleichen Bedingungen 4.0 International Lizenz</a>.
+Die VerÃ¶ffentlichung aller Inhalte und Materialien, die Sie uns zusenden, geschieht unter Anwendung der Creative Common Lizenz. <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons Lizenzvertrag" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />Dieses Werk ist lizenziert unter einer <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Namensnennung - Nicht-kommerziell - Weitergabe unter gleichen Bedingungen 4.0 International Lizenz</a>.
  
 
 
