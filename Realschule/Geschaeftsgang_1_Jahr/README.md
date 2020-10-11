@@ -1,4 +1,5 @@
-Von Carola Sedlmeier, Fachleiterin BWR Staatliche Realschule Mainburg
+**Von Carola Sedlmeier, Fachleiterin BWR Staatliche Realschule Mainburg**
+
 Dieses Unterrichtsmaterial entstand im Rahmen Pilotprojektes zur Einführung einer Software in den Buchhaltungsunterricht. Wesentliche Ergebnisse finden Sie im [Erfahrungsbericht](https://www.banana.ch/de/node/11211 "Erfahrungsbericht").
 
 # 4- bis 6-stündige Unterrichtssequenz zur Simulation des Geschäftsgangs eines Jahres anhand einer Modellfirma
