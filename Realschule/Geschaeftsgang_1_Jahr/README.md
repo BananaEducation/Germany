@@ -1,6 +1,6 @@
 **Von Carola Sedlmeier, Fachleiterin BWR Staatliche Realschule Mainburg**
 
-Dieses Unterrichtsmaterial entstand im Rahmen Pilotprojektes zur Einführung einer Software in den Buchhaltungsunterricht. Wesentliche Ergebnisse finden Sie im [Erfahrungsbericht](https://www.banana.ch/de/node/11211 "Erfahrungsbericht").
+Dieses Unterrichtsmaterial entstand im Rahmen eines Pilotprojektes zur Einführung einer Software in den Buchhaltungsunterricht. Wesentliche Ergebnisse finden Sie im [Erfahrungsbericht](https://www.banana.ch/de/node/11211 "Erfahrungsbericht").
 
 # 4- bis 6-stündige Unterrichtssequenz zur Simulation des Geschäftsgangs eines Jahres anhand einer Modellfirma
 Der Geschäftsgang in der 9. Jahrgangsstufe wird mithilfe der Software erstellt und im Ablauf simuliert. Als Geschäftsgang wird in den Schulbüchern generell der Buchungskreislauf eines Geschäftsjahres bezeichnet, von den Eröffnungsbuchungen über die laufenden Buchungen während des Jahres bis zu den Abschlussbuchungen. Sie finden hier die vollständige Beschreibung der Unterrichtssequenz, samt aller Unterrichtsmaterialen. Die Beschreibung gliedert die Sequenz in 4 Unterrichtstunden, ist aber auch für 5 oder 6 Unterrichtsstunden geeignet. 
